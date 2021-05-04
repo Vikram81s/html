@@ -1,0 +1,200 @@
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .navbar {
+            width: 100%;
+            height: 88px;
+            background-color: white;
+            position: sticky;
+            top: 0px;
+        }
+
+        .logo {
+            width: 150px;
+            height: 47px;
+            padding: 17px;
+            margin-left: 70px;
+        }
+
+        .menu {
+            margin-top: -50px;
+            margin-left: 560px;
+        }
+
+        .menu a {
+            text-decoration: none;
+            padding: 10px;
+        }
+
+        .icon {
+            float: right;
+            margin: 10px;
+            position: relative;
+            top: -27px;
+            right: 195px;
+        }
+
+        .icon i{
+        padding-left: 7px;
+        }
+
+    .cart{
+    float: right;
+    position: relative;
+    top: -18px;
+    left:112px;
+         }
+
+         .cart a{
+            text-decoration: none;
+            color: #000000;
+         }
+
+         .cart i{
+            padding-left: 2px;
+
+         }
+        .st{ 
+            width: 100%;
+            height: 780px;
+        }
+
+        .main{
+            margin: 0px 70px;
+        }
+
+      .kl{
+border: 2px ;
+width: 580px;
+height: 580px;
+float: left;
+margin: 10px 10px;
+}
+     
+
+
+        .img {
+            width: 580px;
+            height: 580px;
+            
+        }    
+
+        .text{
+            position: relative;
+            bottom: 290px;
+    right: -225px;
+    color: #ffffff;
+    font-size: 17px;
+        }
+        
+        .master{
+            width: 100%;
+            height: 2000px;
+        }
+
+        .gcc{
+            width: 100%;
+            height: 250px;
+            background-color: black;
+            margin-top: 45px;
+            float: right;
+    
+        }
+    
+        .gcc h1{
+            text-align: center;
+font-size: 26px;
+font-weight: 400;
+color: #ffffff;
+padding-top: 50px;
+        }
+
+        .gcc h3{
+            font-size: 16px;
+            font-weight: 300;
+            text-align: center;
+            color: #ffffff;
+            padding-top: 20px;
+        }
+
+.joint{
+    
+    margin: 30px 511px;
+}
+
+.inp{
+width: 220px;
+    height: 37px;
+    border-radius: 8px;
+    /* padding: 0px; */
+    margin: 0px 7px 0px -3px;
+}
+
+
+.button{
+height: 40px;
+    width: 85px;
+    /* padding: 9px; */
+    border-radius: 8px;
+    background-color: #000000;
+    color: #ffffff;
+}
+.footer{
+    float: left;
+}
+
+        .foot{
+            float:left;
+            margin-top:45px ;
+            margin-left: 55px;
+        }
+
+        .foot li h1{
+            color:#404040;
+            font-size: 16px;
+            font-weight: 300;
+            margin-bottom: 15px;
+        }
+        .foot li{
+            list-style-type: none;
+            padding: 8px 0px;
+            color:#404040;
+            font-size: 16px;
+            font-weight: 300;
+        }
+
+        .foot li i{
+            padding: 0px 5px;
+        }
+
+        .last{
+    
+            font-size: 15px;
+            position: relative;
+            bottom: -364px;
+             left: -555px;
+          float: right;
+        }
+
+
+.kl a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+       
